@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziIsz5lBEJOWt+vfbxe9VNJMXDC0kBu8omLq6BViXIukM15ZrNG/6GNhBe+l3Q6JUYg30iVDwkzeUIn4z5zJ3g==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C#\\Reiting\\Reiting\\Reiting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yakub\\.nuget\\packages\\htmlagilitypack\\1.11.50\\htmlagilitypack.1.11.50.nupkg.sha512"
+  ],
+  "logs": []
+}

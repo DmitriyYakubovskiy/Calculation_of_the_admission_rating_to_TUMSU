@@ -1,0 +1,17 @@
+D:\Programming\C#\Reiting\Reiting\bin\Debug\net7.0\Reiting.exe
+D:\Programming\C#\Reiting\Reiting\bin\Debug\net7.0\Reiting.deps.json
+D:\Programming\C#\Reiting\Reiting\bin\Debug\net7.0\Reiting.runtimeconfig.json
+D:\Programming\C#\Reiting\Reiting\bin\Debug\net7.0\Reiting.dll
+D:\Programming\C#\Reiting\Reiting\bin\Debug\net7.0\Reiting.pdb
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.csproj.AssemblyReference.cache
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.AssemblyInfoInputs.cache
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.AssemblyInfo.cs
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.dll
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\refint\Reiting.dll
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.pdb
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.genruntimeconfig.cache
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\ref\Reiting.dll
+D:\Programming\C#\Reiting\Reiting\bin\Debug\net7.0\HtmlAgilityPack.dll
+D:\Programming\C#\Reiting\Reiting\obj\Debug\net7.0\Reiting.csproj.CopyComplete
